@@ -2,14 +2,14 @@
 
 <h1>Sustainable System to Mitigate Food Waste in Saudi Arabia </h1> 
 
-* Project Overview;
-<br>
+* Project Overview :
+
 During my internship at Imperial College, I had the opportunity to collaborate with a dedicated team of fellow interns to address Sustainable Development Goals (SDGs) through a project focused on mitigating food waste in Saudi Arabia. Our project aimed to create a sustainable system that would contribute to reducing food waste and promoting responsible consumption.
-
-* Figma Application Design
 <br>
-As part of my role in the project, I leveraged my expertise in computer science and design to develop intuitive and user-friendly application interfaces using Figma. These interfaces were crucial components of our sustainable food waste mitigation system, enabling users to interact with the platform effectively and contribute to our mission.
+* Figma Application Design :
 
+As part of my role in the project, I leveraged my expertise in computer science and design to develop intuitive and user-friendly application interfaces using Figma. These interfaces were crucial components of our sustainable food waste mitigation system, enabling users to interact with the platform effectively and contribute to our mission.
+<br>
 Some Of the Pages i designed :
 
 * Opening Page 
