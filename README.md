@@ -11,6 +11,7 @@ During my internship at Imperial College, I had the opportunity to collaborate w
 As part of my role in the project, I leveraged my expertise in computer science and design to develop intuitive and user-friendly application interfaces using Figma. These interfaces were crucial components of our sustainable food waste mitigation system, enabling users to interact with the platform effectively and contribute to our mission.
 <br>
 <br>
+
 Some Of the Pages i designed :
 
 * Opening Page 
