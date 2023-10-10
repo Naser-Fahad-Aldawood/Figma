@@ -12,7 +12,7 @@ As part of my role in the project, I leveraged my expertise in computer science 
 <br>
 <br>
 
-Some Of the Pages i designed :
+Some Of the Pages :
 
 * Opening Page 
 <br>
